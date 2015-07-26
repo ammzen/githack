@@ -1,1 +1,1 @@
-9a8685e6-3376-11e5-8842-7831c1bb781c
+printf('Hello world')
